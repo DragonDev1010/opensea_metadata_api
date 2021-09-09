@@ -35,8 +35,11 @@ app.get('/api/token/:token_id', function(req, res) {
   //   'image': `${HOST}/images/${tokenId}.png`
   // }
   const data = {
-    'name': person.name,
-    'image': person.image
+    'id': person.id,
+    'description': person.description,
+    'external_url': person.external_url,
+    'image': person.image,
+    'name': person.name
   }
   res.send(data)
 })
