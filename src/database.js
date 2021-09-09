@@ -6,7 +6,7 @@ module.exports = {
     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
     "name": "My NFT 0"
   },
-  "0": {
+  "1": {
     "id": 1,
     "description": "This NFT is created by David",
     "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
