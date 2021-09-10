@@ -3407,37 +3407,38 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Hall"
+        "value": "Underwater"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Tank2"
+        "value": "Shiny"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Apple1"
+        "value": "None"
       },
       {
         "trait_type": "3_NECK",
-        "value": "Bling"
+        "value": "None"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Red Head"
+        "value": "Blue Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "Cigar"
+        "value": "None"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Base Aviators"
+        "value": "Blue Laser Eyes"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Cap"
+        "value": "No Hat"
       }
     ]
+    
   },
   "86": {
     "id": 86,
@@ -19767,19 +19768,19 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Spotlight"
+        "value": "Magic Spotlight"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Red Head"
+        "value": "Robe"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Apple1"
+        "value": "Staff"
       },
       {
         "trait_type": "3_NECK",
-        "value": "Bling"
+        "value": "Medallion"
       },
       {
         "trait_type": "4_HEAD",
@@ -19787,17 +19788,18 @@ module.exports = {
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "Silver Ring"
+        "value": "None"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Patch"
+        "value": "None"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Cap"
+        "value": "Wizard Hat"
       }
     ]
+    
   },
   "495": {
     "id": 495,
@@ -31567,37 +31569,38 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Hall"
+        "value": "Lime"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Polo2"
+        "value": "Demon"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Apple1"
+        "value": "None"
       },
       {
         "trait_type": "3_NECK",
-        "value": "Simple Scarf"
+        "value": "None"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Red Head"
+        "value": "Demon"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "White Mustache"
+        "value": "None"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Patch"
+        "value": "None"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Pimp Mafia"
+        "value": "Horns"
       }
     ]
+    
   },
   "790": {
     "id": 790,
@@ -43967,37 +43970,38 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Hall"
+        "value": "Space"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Polo2"
+        "value": "Space Suit"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Apple1"
+        "value": "None"
       },
       {
         "trait_type": "3_NECK",
-        "value": "Simple Scarf"
+        "value": "None"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Red Head"
+        "value": "Blue Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "Black Mustache"
+        "value": "None"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Patch"
+        "value": "None"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Cap"
+        "value": "Astronaut Helmet"
       }
     ]
+    
   },
   "1100": {
     "id": 1100,
@@ -46367,37 +46371,38 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Hall"
+        "value": "Smoke"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Polo1"
+        "value": "Dark Robe"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Apple1"
+        "value": "None"
       },
       {
         "trait_type": "3_NECK",
-        "value": "Purpe Blue Scarf"
+        "value": "None"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Red Head"
+        "value": "Dark Blue Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "White Mustache"
+        "value": "None"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Patch"
+        "value": "None"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Cap"
+        "value": "Dark Wizard Hat"
       }
     ]
+    
   },
   "1160": {
     "id": 1160,
@@ -51887,37 +51892,38 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Room"
+        "value": "Hallway"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Polo1"
+        "value": "Tank1"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Silver Rolex"
+        "value": "Cleaver"
       },
       {
         "trait_type": "3_NECK",
-        "value": "Simple Scarf"
+        "value": "None"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Red Head"
+        "value": "Brains"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "Silver Ring"
+        "value": "Gold Pacifier"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Cyclops"
+        "value": "Dangling Eye"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Cap"
+        "value": "No Hat"
       }
     ]
+    
   },
   "1298": {
     "id": 1298,
@@ -68247,37 +68253,38 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Hall"
+        "value": "Room"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Red Head"
+        "value": "White Feather"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Silver Rolex"
+        "value": "Silver Patek"
       },
       {
         "trait_type": "3_NECK",
-        "value": "Simple Scarf"
+        "value": "Bling"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Red Head"
+        "value": "White Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "Cigar"
+        "value": "Silver Ring"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Patch"
+        "value": "Cyclops"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Base Mafia"
+        "value": "No Hat"
       }
     ]
+    
   },
   "1707": {
     "id": 1707,
@@ -72087,37 +72094,38 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Hall"
+        "value": "Room"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Red Head"
+        "value": "Black Feathers"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Apple1"
+        "value": "No Watch"
       },
       {
         "trait_type": "3_NECK",
-        "value": "Red Gloves"
+        "value": "No Necklace"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Red Head"
+        "value": "Black Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "Gold Ring"
+        "value": "None"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Cyclops"
+        "value": "Patch"
       },
       {
         "trait_type": "7_HAT",
         "value": "Cap"
       }
     ]
+    
   },
   "1803": {
     "id": 1803,
@@ -133007,35 +133015,35 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Room"
+        "value": "Hall"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "White Feather"
+        "value": "Red Head"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Silver Patek"
+        "value": "Silver Rolex"
       },
       {
         "trait_type": "3_NECK",
-        "value": "Bling"
+        "value": "Simple Scarf"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "White Head"
+        "value": "Red Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "Silver Ring"
+        "value": "Cigar"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Cyclops"
+        "value": "Patch"
       },
       {
         "trait_type": "7_HAT",
-        "value": "No Hat"
+        "value": "Base Mafia"
       }
     ]
   },
@@ -133047,31 +133055,31 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Room"
+        "value": "Hall"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Black Feathers"
+        "value": "Red Head"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "No Watch"
+        "value": "Apple1"
       },
       {
         "trait_type": "3_NECK",
-        "value": "No Necklace"
+        "value": "Red Gloves"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Black Head"
+        "value": "Red Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "None"
+        "value": "Gold Ring"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Patch"
+        "value": "Cyclops"
       },
       {
         "trait_type": "7_HAT",
@@ -133087,35 +133095,35 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Hallway"
+        "value": "Room"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Tank1"
+        "value": "Polo1"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Cleaver"
+        "value": "Silver Rolex"
       },
       {
         "trait_type": "3_NECK",
-        "value": "None"
+        "value": "Simple Scarf"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Brains"
+        "value": "Red Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "Gold Pacifier"
+        "value": "Silver Ring"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Dangling Eye"
+        "value": "Cyclops"
       },
       {
         "trait_type": "7_HAT",
-        "value": "No Hat"
+        "value": "Cap"
       }
     ]
   },
@@ -133127,19 +133135,19 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Magic Spotlight"
+        "value": "Spotlight"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Robe"
+        "value": "Red Head"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "Staff"
+        "value": "Apple1"
       },
       {
         "trait_type": "3_NECK",
-        "value": "Medallion"
+        "value": "Bling"
       },
       {
         "trait_type": "4_HEAD",
@@ -133147,15 +133155,15 @@ module.exports = {
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "None"
+        "value": "Silver Ring"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "None"
+        "value": "Patch"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Wizard Hat"
+        "value": "Cap"
       }
     ]
   },
@@ -133167,35 +133175,35 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Underwater"
+        "value": "Hall"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Shiny"
+        "value": "Tank2"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "None"
+        "value": "Apple1"
       },
       {
         "trait_type": "3_NECK",
-        "value": "None"
+        "value": "Bling"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Blue Head"
+        "value": "Red Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "None"
+        "value": "Cigar"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "Blue Laser Eyes"
+        "value": "Base Aviators"
       },
       {
         "trait_type": "7_HAT",
-        "value": "No Hat"
+        "value": "Cap"
       }
     ]
   },
@@ -133207,35 +133215,35 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Space"
+        "value": "Hall"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Space Suit"
+        "value": "Polo2"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "None"
+        "value": "Apple1"
       },
       {
         "trait_type": "3_NECK",
-        "value": "None"
+        "value": "Simple Scarf"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Blue Head"
+        "value": "Red Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "None"
+        "value": "Black Mustache"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "None"
+        "value": "Patch"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Astronaut Helmet"
+        "value": "Cap"
       }
     ]
   },
@@ -133247,35 +133255,35 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Smoke"
+        "value": "Hall"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Dark Robe"
+        "value": "Polo1"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "None"
+        "value": "Apple1"
       },
       {
         "trait_type": "3_NECK",
-        "value": "None"
+        "value": "Purpe Blue Scarf"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Dark Blue Head"
+        "value": "Red Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "None"
+        "value": "White Mustache"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "None"
+        "value": "Patch"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Dark Wizard Hat"
+        "value": "Cap"
       }
     ]
   },
@@ -133287,35 +133295,35 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Lime"
+        "value": "Hall"
       },
       {
         "trait_type": "1_CLOTHES",
-        "value": "Demon"
+        "value": "Polo2"
       },
       {
         "trait_type": "2_WATCH",
-        "value": "None"
+        "value": "Apple1"
       },
       {
         "trait_type": "3_NECK",
-        "value": "None"
+        "value": "Simple Scarf"
       },
       {
         "trait_type": "4_HEAD",
-        "value": "Demon"
+        "value": "Red Head"
       },
       {
         "trait_type": "5_MOUTH",
-        "value": "None"
+        "value": "White Mustache"
       },
       {
         "trait_type": "6_GLASSES",
-        "value": "None"
+        "value": "Patch"
       },
       {
         "trait_type": "7_HAT",
-        "value": "Horns"
+        "value": "Pimp Mafia"
       }
     ]
   }
