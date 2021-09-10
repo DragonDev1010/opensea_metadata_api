@@ -2,7 +2,7 @@ module.exports = {
   "0": {
     "id": 0,
     "description": "ChunkyChicken#0",
-    // "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
     "image": "https://gateway.ipfs.io/ipfs/QmX3PUo9Y5xuUirsLV5o1G63u6BqjcNeg2EkyquWqn97UY",
     "name": "My NFT 0",
     "attributes": [
