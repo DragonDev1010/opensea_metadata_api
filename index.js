@@ -39,7 +39,41 @@ app.get('/api/token/:token_id', function(req, res) {
     'description': person.description,
     'external_url': person.external_url,
     'image': person.image,
-    'name': person.name
+    'name': person.name,
+    'attributes': [
+      {
+        'trait_type': person.attributes.trait_type,
+        'value': person.attributes.value
+      },
+      {
+        'trait_type': person.attributes.trait_type,
+        'value': person.attributes.value
+      },
+      {
+        'trait_type': person.attributes.trait_type,
+        'value': person.attributes.value
+      },
+      {
+        'trait_type': person.attributes.trait_type,
+        'value': person.attributes.value
+      },
+      {
+        'trait_type': person.attributes.trait_type,
+        'value': person.attributes.value
+      },
+      {
+        'trait_type': person.attributes.trait_type,
+        'value': person.attributes.value
+      },
+      {
+        'trait_type': person.attributes.trait_type,
+        'value': person.attributes.value
+      },
+      {
+        'trait_type': person.attributes.trait_type,
+        'value': person.attributes.value
+      },
+    ]
   }
   res.send(data)
 })
