@@ -79,86 +79,86 @@ module.exports = {
       }
     ]
   },
-  // "2": {
-  //   "id": 2,
-  //   "name": "ChunkyChicken#2",
-  //   "description": "This is a Chunky Chicken NFT",
-  //   "image": "https://gateway.ipfs.io/ipfs/QmT8ZVkzcWj5wJCopfmVuHRNLw2qxpkyJicfd6YfD2vnvx",
-  //   "attributes": [
-  //     {
-  //       "trait_type": "0_BACKGROUND",
-  //       "value": "Spotlight"
-  //     },
-  //     {
-  //       "trait_type": "1_CLOTHES",
-  //       "value": "Red Head"
-  //     },
-  //     {
-  //       "trait_type": "2_WATCH",
-  //       "value": "Apple1"
-  //     },
-  //     {
-  //       "trait_type": "3_NECK",
-  //       "value": "Red Gloves"
-  //     },
-  //     {
-  //       "trait_type": "4_HEAD",
-  //       "value": "Red Head"
-  //     },
-  //     {
-  //       "trait_type": "5_MOUTH",
-  //       "value": "Black Mustache"
-  //     },
-  //     {
-  //       "trait_type": "6_GLASSES",
-  //       "value": "Base Aviators"
-  //     },
-  //     {
-  //       "trait_type": "7_HAT",
-  //       "value": "Cap"
-  //     }
-  //   ]
-  // },
-  // "3": {
-  //   "id": 3,
-  //   "name": "ChunkyChicken#3",
-  //   "description": "This is a Chunky Chicken NFT",
-  //   "image": "https://gateway.ipfs.io/ipfs/QmdKNPqHTqkPXR1TVGBbLoLaGf7ru8DmPGJb49jiUJ9Cs8",
-  //   "attributes": [
-  //     {
-  //       "trait_type": "0_BACKGROUND",
-  //       "value": "Room"
-  //     },
-  //     {
-  //       "trait_type": "1_CLOTHES",
-  //       "value": "Red Head"
-  //     },
-  //     {
-  //       "trait_type": "2_WATCH",
-  //       "value": "Silver Rolex"
-  //     },
-  //     {
-  //       "trait_type": "3_NECK",
-  //       "value": "Bling"
-  //     },
-  //     {
-  //       "trait_type": "4_HEAD",
-  //       "value": "Red Head"
-  //     },
-  //     {
-  //       "trait_type": "5_MOUTH",
-  //       "value": "White Mustache"
-  //     },
-  //     {
-  //       "trait_type": "6_GLASSES",
-  //       "value": "Shades"
-  //     },
-  //     {
-  //       "trait_type": "7_HAT",
-  //       "value": "Cap"
-  //     }
-  //   ]
-  // },
+  "2": {
+    "id": 2,
+    "name": "ChunkyChicken#2",
+    "description": "This is a Chunky Chicken NFT",
+    "image": "https://gateway.ipfs.io/ipfs/QmT8ZVkzcWj5wJCopfmVuHRNLw2qxpkyJicfd6YfD2vnvx",
+    "attributes": [
+      {
+        "trait_type": "0_BACKGROUND",
+        "value": "Spotlight"
+      },
+      {
+        "trait_type": "1_CLOTHES",
+        "value": "Red Head"
+      },
+      {
+        "trait_type": "2_WATCH",
+        "value": "Apple1"
+      },
+      {
+        "trait_type": "3_NECK",
+        "value": "Red Gloves"
+      },
+      {
+        "trait_type": "4_HEAD",
+        "value": "Red Head"
+      },
+      {
+        "trait_type": "5_MOUTH",
+        "value": "Black Mustache"
+      },
+      {
+        "trait_type": "6_GLASSES",
+        "value": "Base Aviators"
+      },
+      {
+        "trait_type": "7_HAT",
+        "value": "Cap"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "ChunkyChicken#3",
+    "description": "This is a Chunky Chicken NFT",
+    "image": "https://gateway.ipfs.io/ipfs/QmdKNPqHTqkPXR1TVGBbLoLaGf7ru8DmPGJb49jiUJ9Cs8",
+    "attributes": [
+      {
+        "trait_type": "0_BACKGROUND",
+        "value": "Room"
+      },
+      {
+        "trait_type": "1_CLOTHES",
+        "value": "Red Head"
+      },
+      {
+        "trait_type": "2_WATCH",
+        "value": "Silver Rolex"
+      },
+      {
+        "trait_type": "3_NECK",
+        "value": "Bling"
+      },
+      {
+        "trait_type": "4_HEAD",
+        "value": "Red Head"
+      },
+      {
+        "trait_type": "5_MOUTH",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "6_GLASSES",
+        "value": "Shades"
+      },
+      {
+        "trait_type": "7_HAT",
+        "value": "Cap"
+      }
+    ]
+  },
   // "4": {
   //   "id": 4,
   //   "name": "ChunkyChicken#4",
