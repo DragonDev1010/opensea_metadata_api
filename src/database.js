@@ -7,7 +7,7 @@ module.exports = {
     "attributes": [
       {
         "trait_type": "0_BACKGROUND",
-        "value": "Hall"
+        "value": "Hall David"
       },
       {
         "trait_type": "1_CLOTHES",
